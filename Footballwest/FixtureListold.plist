@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixtures</key>
+	<array>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>All Flags Premier Division</string>
+					<key>complist</key>
+					<string>240246</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>All Flags Premier Division Reserve</string>
+					<key>complist</key>
+					<string>240249</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>All Flags Premier Division 18s</string>
+					<key>complist</key>
+					<string>240245</string>
+				</dict>
+			</array>
+			<key>image</key>
+			<string>SLP.png</string>
+			<key>title</key>
+			<string>Premier League</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>All Flags Division 1</string>
+					<key>complist</key>
+					<string>240252</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>All Flags Division 1 Reserves</string>
+					<key>complist</key>
+					<string>240250</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>All Flags Division 18s</string>
+					<key>complist</key>
+					<string>240244</string>
+				</dict>
+			</array>
+			<key>image</key>
+			<string>DIVONE.png</string>
+			<key>title</key>
+			<string>Division 1 League</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>All Flags Division 2</string>
+					<key>complist</key>
+					<string>240248</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>All Flags Division 2 Reserves</string>
+					<key>complist</key>
+					<string>240251</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>All Flags Division 2 18s</string>
+					<key>complist</key>
+					<string>240247</string>
+				</dict>
+			</array>
+			<key>image</key>
+			<string>DIVTWO.png</string>
+			<key>title</key>
+			<string>Division 2 League</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Premier Division</string>
+					<key>complist</key>
+					<string>242960</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Premier Division Reserves</string>
+					<key>complist</key>
+					<string>242966</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 1</string>
+					<key>complist</key>
+					<string>242962</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 1 Reserves</string>
+					<key>complist</key>
+					<string>256520</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 2</string>
+					<key>complist</key>
+					<string>242965</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 2 Reserves</string>
+					<key>complist</key>
+					<string>256519</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 3</string>
+					<key>complist</key>
+					<string>242967</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 3 Reserves</string>
+					<key>complist</key>
+					<string>256521</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 4</string>
+					<key>complist</key>
+					<string>242964</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 4 Reserves</string>
+					<key>complist</key>
+					<string>242971</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 5</string>
+					<key>complist</key>
+					<string>256699</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 5 Reserves</string>
+					<key>complist</key>
+					<string>242970</string>
+				</dict>
+			</array>
+			<key>image</key>
+			<string>SL.png</string>
+			<key>title</key>
+			<string>Sunday League</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Premier Division</string>
+					<key>complist</key>
+					<string>242975</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 1</string>
+					<key>complist</key>
+					<string>256770</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>North Division 1</string>
+					<key>complist</key>
+					<string>242963</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>North Division 2</string>
+					<key>complist</key>
+					<string>242982</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>North Division 3</string>
+					<key>complist</key>
+					<string>242978</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>North Division 4</string>
+					<key>complist</key>
+					<string>242974</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>North Division 5</string>
+					<key>complist</key>
+					<string>255755</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>South Division 1</string>
+					<key>complist</key>
+					<string>242969</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>South Division 2</string>
+					<key>complist</key>
+					<string>242968</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>South Division 3</string>
+					<key>complist</key>
+					<string>242976</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>South Division 4</string>
+					<key>complist</key>
+					<string>255754</string>
+				</dict>
+			</array>
+			<key>image</key>
+			<string>METRO.png</string>
+			<key>title</key>
+			<string>Metropolitan League</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Premier Division</string>
+					<key>complist</key>
+					<string>243178</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 1</string>
+					<key>complist</key>
+					<string>243167</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Over 45s</string>
+					<key>complist</key>
+					<string>243176</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>North Division 1</string>
+					<key>complist</key>
+					<string>243165</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>North Division 2</string>
+					<key>complist</key>
+					<string>243164</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>North Division 3</string>
+					<key>complist</key>
+					<string>243172</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>South Division 1</string>
+					<key>complist</key>
+					<string>243168</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>South Division 2</string>
+					<key>complist</key>
+					<string>243173</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>South Division 3</string>
+					<key>complist</key>
+					<string>243175</string>
+				</dict>
+			</array>
+			<key>image</key>
+			<string>MASTER.png</string>
+			<key>title</key>
+			<string>Masters League</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Premier Division</string>
+					<key>complist</key>
+					<string>243062</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Premier Reserves</string>
+					<key>complist</key>
+					<string>243052</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 1</string>
+					<key>complist</key>
+					<string>243061</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 1 Reserves</string>
+					<key>complist</key>
+					<string>243060</string>
+				</dict>
+			</array>
+			<key>image</key>
+			<string>WSL.png</string>
+			<key>title</key>
+			<string>Womens State League</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Division 1</string>
+					<key>complist</key>
+					<string>243171</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 2</string>
+					<key>complist</key>
+					<string>243177</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 3</string>
+					<key>complist</key>
+					<string>243170</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 4</string>
+					<key>complist</key>
+					<string>243174</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Division 5</string>
+					<key>complist</key>
+					<string>243166</string>
+				</dict>
+			</array>
+			<key>image</key>
+			<string>WML.png</string>
+			<key>title</key>
+			<string>Womens Metropolitan League</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>2013</string>
+					<key>complist</key>
+					<string>258644</string>
+				</dict>
+			</array>
+			<key>image</key>
+			<string>HFL.png</string>
+			<key>title</key>
+			<string>Hub Football League</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>2013</string>
+					<key>complist</key>
+					<string>248812</string>
+				</dict>
+			</array>
+			<key>image</key>
+			<string>SFL.png</string>
+			<key>title</key>
+			<string>State Futsal League</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>title</key>
+							<string>11s to 18s</string>
+							<key>cluster</key>
+							<string>http://www.footballwest.com.au/fileadmin/user_upload/equal_footingball/2013_EFL_Calendar.pdf</string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>2013</string>
+				</dict>
+			</array>
+			<key>image</key>
+			<string>EF.png</string>
+			<key>title</key>
+			<string>Equal Footingball</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>title</key>
+							<string>Premier Division</string>
+							<key>complist</key>
+							<string>244138</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 1</string>
+							<key>complist</key>
+							<string>244151</string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Girls - 13s</string>
+				</dict>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>title</key>
+							<string>Premier Division</string>
+							<key>complist</key>
+							<string>244185</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 1</string>
+							<key>complist</key>
+							<string>244176</string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Girls - 14s</string>
+				</dict>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>title</key>
+							<string>Premier Division</string>
+							<key>complist</key>
+							<string>244134</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 1</string>
+							<key>complist</key>
+							<string>244153</string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Girls - 15s</string>
+				</dict>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>title</key>
+							<string>Premier Division</string>
+							<key>complist</key>
+							<string>244131</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 1</string>
+							<key>complist</key>
+							<string>244187</string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Girls - 17s</string>
+				</dict>
+			</array>
+			<key>image</key>
+			<string>JGL.png</string>
+			<key>title</key>
+			<string>Junior Girls League</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>title</key>
+							<string>Premier Division</string>
+							<key>complist</key>
+							<string>243276</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 1</string>
+							<key>complist</key>
+							<string>243300</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 2</string>
+							<key>complist</key>
+							<string>243296</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 3</string>
+							<key>complist</key>
+							<string>243269</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Division 1</string>
+							<key>complist</key>
+							<string>243291</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Division 2</string>
+							<key>complist</key>
+							<string>243289</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Division 3</string>
+							<key>complist</key>
+							<string>243299</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Division 1</string>
+							<key>complist</key>
+							<string>243262</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Division 2</string>
+							<key>complist</key>
+							<string>243301</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Division 3</string>
+							<key>complist</key>
+							<string>243263</string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Boys - 12s</string>
+				</dict>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>title</key>
+							<string>Premier Division</string>
+							<key>complist</key>
+							<string>243274</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 1</string>
+							<key>complist</key>
+							<string>243287</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 2</string>
+							<key>complist</key>
+							<string>243261</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 3</string>
+							<key>complist</key>
+							<string>243293</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Division 1</string>
+							<key>complist</key>
+							<string>243304</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Division 2</string>
+							<key>complist</key>
+							<string>243256</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Division 3</string>
+							<key>complist</key>
+							<string>243266</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Division 1</string>
+							<key>complist</key>
+							<string>243253</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Division 2</string>
+							<key>complist</key>
+							<string>243284</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Division 3</string>
+							<key>complist</key>
+							<string>243260</string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Boys - 13s</string>
+				</dict>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>title</key>
+							<string>Premier Division</string>
+							<key>complist</key>
+							<string>244122</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 1</string>
+							<key>complist</key>
+							<string>244130</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 2</string>
+							<key>complist</key>
+							<string>244162</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 3</string>
+							<key>complist</key>
+							<string>244132</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Division 1</string>
+							<key>complist</key>
+							<string>244129</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Division 2</string>
+							<key>complist</key>
+							<string>244169</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Division 3</string>
+							<key>complist</key>
+							<string>244125</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Division 1</string>
+							<key>complist</key>
+							<string>244175</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Division 2</string>
+							<key>complist</key>
+							<string>244156</string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Boys - 14s</string>
+				</dict>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>title</key>
+							<string>Premier Division</string>
+							<key>complist</key>
+							<string>244143</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 1</string>
+							<key>complist</key>
+							<string>244146</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 2</string>
+							<key>complist</key>
+							<string>244170</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 3</string>
+							<key>complist</key>
+							<string>244161</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Division 1</string>
+							<key>complist</key>
+							<string>244126</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Division 2</string>
+							<key>complist</key>
+							<string>244127</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Division 1</string>
+							<key>complist</key>
+							<string>244133</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Division 2</string>
+							<key>complist</key>
+							<string>244117</string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Boys - 15s</string>
+				</dict>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>title</key>
+							<string>Premier Division</string>
+							<key>complist</key>
+							<string>244128</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 1</string>
+							<key>complist</key>
+							<string>244119</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 2</string>
+							<key>complist</key>
+							<string>244148</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 3</string>
+							<key>complist</key>
+							<string>244113</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 4</string>
+							<key>complist</key>
+							<string>244145</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 5</string>
+							<key>complist</key>
+							<string>244159</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 6</string>
+							<key>complist</key>
+							<string>244158</string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Boys - 16s</string>
+				</dict>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>title</key>
+							<string>Premier Division</string>
+							<key>complist</key>
+							<string>244152</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 1</string>
+							<key>complist</key>
+							<string>244124</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 2</string>
+							<key>complist</key>
+							<string>244166</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Division 3</string>
+							<key>complist</key>
+							<string>244184</string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Boys - 18s</string>
+				</dict>
+			</array>
+			<key>image</key>
+			<string>JBL.png</string>
+			<key>title</key>
+			<string>Junior Boys League</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>title</key>
+							<string>Cluster 1</string>
+							<key>cluster</key>
+							<string>http://www.footballwest.com.au/fileadmin/user_upload/ossf/Cluster_1_Fixtures.pdf</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Cluster 2</string>
+							<key>cluster</key>
+							<string>http://www.footballwest.com.au/fileadmin/user_upload/ossf/Cluster_2_Fixtures.pdf</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Cluster 3</string>
+							<key>cluster</key>
+							<string>http://www.footballwest.com.au/fileadmin/user_upload/ossf/Cluster_3_Fixtures.pdf</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Cluster 4</string>
+							<key>cluster</key>
+							<string>http://www.footballwest.com.au/fileadmin/user_upload/ossf/Cluster_4_Fixtures.pdf</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Cluster 5</string>
+							<key>cluster</key>
+							<string>http://www.footballwest.com.au/fileadmin/user_upload/ossf/Cluster_5_Fixtures.pdf</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Cluster 6</string>
+							<key>cluster</key>
+							<string>http://www.footballwest.com.au/fileadmin/user_upload/ossf/Cluster_6_Fixtures.pdf</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Cluster 7</string>
+							<key>cluster</key>
+							<string>http://www.footballwest.com.au/fileadmin/user_upload/ossf/Cluster_7_Fixtures.pdf</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Cluster 8</string>
+							<key>cluster</key>
+							<string>http://www.footballwest.com.au/fileadmin/user_upload/ossf/Cluster_8_Fixtures.pdf</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Cluster 9</string>
+							<key>cluster</key>
+							<string>http://www.footballwest.com.au/fileadmin/user_upload/ossf/Cluster_9_Fixtures.pdf</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Cluster 10</string>
+							<key>cluster</key>
+							<string>http://www.footballwest.com.au/fileadmin/user_upload/ossf/Cluster_10_Fixtures.pdf</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Cluster 11</string>
+							<key>cluster</key>
+							<string>http://www.footballwest.com.au/fileadmin/user_upload/ossf/Cluster_11_Fixtures.pdf</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>Cluster 12</string>
+							<key>cluster</key>
+							<string>http://www.footballwest.com.au/fileadmin/user_upload/ossf/Cluster_12_Fixtures.pdf</string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>OSSF - 6/7&apos;s</string>
+				</dict>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>title</key>
+							<string>North Joeys Gold</string>
+							<key>complist</key>
+							<string>244149</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Joeys Green</string>
+							<key>complist</key>
+							<string>244186</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Joeys Bronze</string>
+							<key>complist</key>
+							<string>258490</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Olyroos Gold</string>
+							<key>complist</key>
+							<string>244178</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Olyroos Green</string>
+							<key>complist</key>
+							<string>244188</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Olyroos Bronze</string>
+							<key>complist</key>
+							<string>244118</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Socceroos Gold</string>
+							<key>complist</key>
+							<string>244147</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Joeys Gold</string>
+							<key>complist</key>
+							<string>244182</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Olyroos Gold</string>
+							<key>complist</key>
+							<string>244121</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Socceroos Gold</string>
+							<key>complist</key>
+							<string>243298</string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>OSSF - 8s</string>
+				</dict>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>title</key>
+							<string>North Joeys Gold</string>
+							<key>complist</key>
+							<string>244181</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Joeys Green</string>
+							<key>complist</key>
+							<string>244171</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Joeys Bronze</string>
+							<key>complist</key>
+							<string>244167</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Olyroos Gold</string>
+							<key>complist</key>
+							<string>244179</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Olyroos Green</string>
+							<key>complist</key>
+							<string>244142</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Olyroos Bronze</string>
+							<key>complist</key>
+							<string>244116</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Socceroos Gold</string>
+							<key>complist</key>
+							<string>244137</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Socceroos Green</string>
+							<key>complist</key>
+							<string>244155</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Joeys Gold</string>
+							<key>complist</key>
+							<string>244115</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Joeys Green</string>
+							<key>complist</key>
+							<string>258774</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Olyroos Gold</string>
+							<key>complist</key>
+							<string>244150</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Socceroos Gold</string>
+							<key>complist</key>
+							<string>244136</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Socceroos Green</string>
+							<key>complist</key>
+							<string>258684</string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>OSSF - 9s</string>
+				</dict>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>title</key>
+							<string>North Blue</string>
+							<key>complist</key>
+							<string>243292</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Green</string>
+							<key>complist</key>
+							<string>243271</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Orange</string>
+							<key>complist</key>
+							<string>243305</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Purple</string>
+							<key>complist</key>
+							<string>243257</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Red</string>
+							<key>complist</key>
+							<string>243273</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North White</string>
+							<key>complist</key>
+							<string>243254</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Yellow</string>
+							<key>complist</key>
+							<string>258683</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Blue</string>
+							<key>complist</key>
+							<string>243295</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Green</string>
+							<key>complist</key>
+							<string>243286</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Orange</string>
+							<key>complist</key>
+							<string>243268</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Purple</string>
+							<key>complist</key>
+							<string>243275</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Red</string>
+							<key>complist</key>
+							<string>243297</string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>OSSF - 10s</string>
+				</dict>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>title</key>
+							<string>North Blue</string>
+							<key>complist</key>
+							<string>243283</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Green</string>
+							<key>complist</key>
+							<string>243255</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Orange</string>
+							<key>complist</key>
+							<string>243282</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Purple</string>
+							<key>complist</key>
+							<string>243277</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Red</string>
+							<key>complist</key>
+							<string>243279</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North White</string>
+							<key>complist</key>
+							<string>243259</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>North Yellow</string>
+							<key>complist</key>
+							<string>243270</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Blue</string>
+							<key>complist</key>
+							<string>243288</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Green</string>
+							<key>complist</key>
+							<string>243303</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Orange</string>
+							<key>complist</key>
+							<string>243265</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Purple</string>
+							<key>complist</key>
+							<string>243278</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South Red</string>
+							<key>complist</key>
+							<string>243258</string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>OSSF - 11s</string>
+				</dict>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>title</key>
+							<string>North</string>
+							<key>complist</key>
+							<string>243264</string>
+						</dict>
+						<dict>
+							<key>title</key>
+							<string>South</string>
+							<key>complist</key>
+							<string>243272</string>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>OSSF Girls - 11s</string>
+				</dict>
+			</array>
+			<key>image</key>
+			<string>OSSF.png</string>
+			<key>title</key>
+			<string>OSSF League</string>
+		</dict>
+	</array>
+</dict>
+</plist>

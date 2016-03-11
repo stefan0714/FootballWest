@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Alfred Skeet Oval</string>
+			<key>address</key>
+			<string>Armadale Road</string>
+			<key>suburb</key>
+			<string>Forrestdale</string>
+			<key>postcode</key>
+			<string>6112</string>
+			<key>latitude</key>
+			<string>-32.14900</string>
+			<key>longitude</key>
+			<string>115.93295</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arbor Grove</string>
+			<key>address</key>
+			<string>Brookmount Drive</string>
+			<key>suburb</key>
+			<string>Ellenbrook</string>
+			<key>postcode</key>
+			<string>6069</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ashfield Reserve</string>
+			<key>address</key>
+			<string>Colstoun Road</string>
+			<key>suburb</key>
+			<string>Ashfield</string>
+			<key>postcode</key>
+			<string>6054</string>
+		</dict>
+	</array>
+	<key>B</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Beale Park </string>
+			<key>address</key>
+			<string>Hamilton Rd</string>
+			<key>suburb</key>
+			<string>Spearwood</string>
+			<key>postcode</key>
+			<string>6163</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beeliar Oval</string>
+			<key>address</key>
+			<string>The Grange</string>
+			<key>suburb</key>
+			<string>Beeliar</string>
+			<key>postcode</key>
+			<string>6169</string>
+			<key>latitude</key>
+			<string>-32.13326</string>
+			<key>longitude</key>
+			<string>115.81779</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beldon Park</string>
+			<key>address</key>
+			<string>Gunter Grove</string>
+			<key>suburb</key>
+			<string>Beldon</string>
+			<key>postcode</key>
+			<string>6027</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Belmont Sports &amp; Rec Club</string>
+			<key>address</key>
+			<string>Keane St</string>
+			<key>suburb</key>
+			<string>Kewdale</string>
+			<key>postcode</key>
+			<string>6105</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Birdwood Square</string>
+			<key>address</key>
+			<string>Brisbane St</string>
+			<key>suburb</key>
+			<string>Highgate</string>
+			<key>postcode</key>
+			<string>6000</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bosnian and Herzegovian Cultural Centre</string>
+			<key>address</key>
+			<string>Lot 289 Beechboro Road North</string>
+			<key>suburb</key>
+			<string>Beechboro </string>
+			<key>postcode</key>
+			<string>6063</string>
+			<key>latitude</key>
+			<string>-31.860734</string>
+			<key>longitude</key>
+			<string>115.924044</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Britannia Reserve</string>
+			<key>address</key>
+			<string>Britannia Road</string>
+			<key>suburb</key>
+			<string>Mt Hawthorn</string>
+			<key>postcode</key>
+			<string>6016</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bruce Lee Oval</string>
+			<key>address</key>
+			<string>Grosvenor Street</string>
+			<key>suburb</key>
+			<string>Beaconsfield</string>
+			<key>postcode</key>
+			<string>6162</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Butlers Reserve</string>
+			<key>address</key>
+			<string>Calais Rd </string>
+			<key>suburb</key>
+			<string>Scarborough</string>
+			<key>postcode</key>
+			<string>6019</string>
+		</dict>
+	</array>
+	<key>C</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Carine High Scool</string>
+			<key>address</key>
+			<string>Everingham St </string>
+			<key>suburb</key>
+			<string>Carine</string>
+			<key>postcode</key>
+			<string>6020</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Carine Open Space</string>
+			<key>address</key>
+			<string>Beach Road</string>
+			<key>suburb</key>
+			<string>Carine</string>
+			<key>postcode</key>
+			<string>6020</string>
+			<key>latitude</key>
+			<string>-31.84662</string>
+			<key>longitude</key>
+			<string>115.78814</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Celebration Park</string>
+			<key>address</key>
+			<string>Rochester Circle</string>
+			<key>suburb</key>
+			<string>Balga</string>
+			<key>postcode</key>
+			<string>6061</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Challenger Reserve</string>
+			<key>address</key>
+			<string>Challenger Avenue</string>
+			<key>suburb</key>
+			<string>Manning</string>
+			<key>postcode</key>
+			<string>6152</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Charles Riley Reserve</string>
+			<key>address</key>
+			<string>Williamson Way</string>
+			<key>suburb</key>
+			<string>North Beach</string>
+			<key>postcode</key>
+			<string>6020</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Charonia Reserve</string>
+			<key>address</key>
+			<string>Charonia Rd</string>
+			<key>suburb</key>
+			<string>Mullaloo</string>
+			<key>postcode</key>
+			<string>6027</string>
+			<key>latitude</key>
+			<string>-31.77809</string>
+			<key>longitude</key>
+			<string>115.74664</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chichester Park</string>
+			<key>address</key>
+			<string>Trappers Drive</string>
+			<key>suburb</key>
+			<string>Woodvale</string>
+			<key>postcode</key>
+			<string>6026</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Coker Park</string>
+			<key>address</key>
+			<string>Wharf Street</string>
+			<key>suburb</key>
+			<string>Cannington</string>
+			<key>postcode</key>
+			<string>6107</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cottesloe Primary School Oval</string>
+			<key>address</key>
+			<string>Johnston St </string>
+			<key>suburb</key>
+			<string>Peppermint Grove</string>
+			<key>postcode</key>
+			<string>6011</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cracovia</string>
+			<key>address</key>
+			<string>375 Marshall Rd</string>
+			<key>suburb</key>
+			<string>Beechboro</string>
+			<key>postcode</key>
+			<string>6063</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Croatian Sporting Complex</string>
+			<key>address</key>
+			<string>Wishart Street</string>
+			<key>suburb</key>
+			<string>Gwelup</string>
+			<key>postcode</key>
+			<string>6018</string>
+		</dict>
+	</array>
+	<key>D</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Dalmatinac Park</string>
+			<key>address</key>
+			<string>Azelia Road</string>
+			<key>suburb</key>
+			<string>Spearwood</string>
+			<key>postcode</key>
+			<string>6163</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>De Lacey Reserve</string>
+			<key>address</key>
+			<string>Hillside Crescent</string>
+			<key>suburb</key>
+			<string>Maylands</string>
+			<key>postcode</key>
+			<string>6051</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dianella Reserve</string>
+			<key>address</key>
+			<string>Alexander Drive</string>
+			<key>suburb</key>
+			<string>Morley</string>
+			<key>postcode</key>
+			<string>6062</string>
+			<key>latitude</key>
+			<string>-31.88774</string>
+			<key>longitude</key>
+			<string>115.87422</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dorothy &amp; Charlie Coote Reserve</string>
+			<key>address</key>
+			<string>Challenger Road</string>
+			<key>suburb</key>
+			<string>Madora Bay</string>
+			<key>postcode</key>
+			<string>6210</string>
+		</dict>
+	</array>
+	<key>E</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>E &amp; D Litis Stadium</string>
+			<key>address</key>
+			<string>Britannia Road</string>
+			<key>suburb</key>
+			<string>Mt Hawthorn</string>
+			<key>postcode</key>
+			<string>6016</string>
+			<key>latitude</key>
+			<string>-31.92725</string>
+			<key>longitude</key>
+			<string>115.83342</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ECU Joondalup Football Stadium</string>
+			<key>address</key>
+			<string>Edith Cowan University</string>
+			<key>suburb</key>
+			<string>Joondalup</string>
+			<key>postcode</key>
+			<string>6027</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Edinburgh Oval</string>
+			<key>address</key>
+			<string>Curtin University</string>
+			<key>suburb</key>
+			<string>Bentley</string>
+			<key>postcode</key>
+			<string>6102</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Elstead Reserve</string>
+			<key>address</key>
+			<string>Elstead Way</string>
+			<key>suburb</key>
+			<string>Morley</string>
+			<key>postcode</key>
+			<string>6062</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Emberson Reserve</string>
+			<key>address</key>
+			<string>Emberson Road</string>
+			<key>suburb</key>
+			<string>Morley</string>
+			<key>postcode</key>
+			<string>6062</string>
+		</dict>
+	</array>
+	<key>F</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Forrest Park</string>
+			<key>address</key>
+			<string>Harold Street</string>
+			<key>suburb</key>
+			<string>Mount Lawley</string>
+			<key>postcode</key>
+			<string>6050</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Frank Drago Reserve</string>
+			<key>address</key>
+			<string>Garratt Road</string>
+			<key>suburb</key>
+			<string>Bayswater</string>
+			<key>postcode</key>
+			<string>6053</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fraser Park</string>
+			<key>address</key>
+			<string>Hampshire St</string>
+			<key>suburb</key>
+			<string>East Victoria Park</string>
+			<key>postcode</key>
+			<string>6101</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fremantle Park</string>
+			<key>address</key>
+			<string>Ellen Street</string>
+			<key>suburb</key>
+			<string>Fremantle</string>
+			<key>postcode</key>
+			<string>6160</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Frye Park</string>
+			<key>address</key>
+			<string>Clifton St</string>
+			<key>suburb</key>
+			<string>Kelmscott</string>
+			<key>postcode</key>
+			<string>6111</string>
+		</dict>
+	</array>
+	<key>G</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Georgetown Reserve</string>
+			<key>address</key>
+			<string>Georgetown Drive</string>
+			<key>suburb</key>
+			<string>Safety Bay</string>
+			<key>postcode</key>
+			<string>6169</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gerry Archer Sporting Complex</string>
+			<key>address</key>
+			<string>Abernethy Rd</string>
+			<key>suburb</key>
+			<string>Belmont</string>
+			<key>postcode</key>
+			<string>6104</string>
+			<key>latitude</key>
+			<string>-31.97362</string>
+			<key>longitude</key>
+			<string>115.94772</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gibbney Reserve</string>
+			<key>address</key>
+			<string>Ferguson St</string>
+			<key>suburb</key>
+			<string>Maylands</string>
+			<key>postcode</key>
+			<string>6051</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Glen Forrest Oval</string>
+			<key>address</key>
+			<string>Marnie Rd</string>
+			<key>suburb</key>
+			<string>Glen Forrest</string>
+			<key>postcode</key>
+			<string>6071</string>
+			<key>latitude</key>
+			<string>-31.907899</string>
+			<key>longitude</key>
+			<string>116.101235</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Grimrey Oval</string>
+			<key>address</key>
+			<string>Grimrey Road</string>
+			<key>suburb</key>
+			<string>Lockridge, WA</string>
+			<key>postcode</key>
+			<string>6054</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Grindleford Reserve</string>
+			<key>address</key>
+			<string>Grindleford Drive</string>
+			<key>suburb</key>
+			<string>Balcatta</string>
+			<key>postcode</key>
+			<string>6021</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gumblossom Park</string>
+			<key>address</key>
+			<string>Tapping Way</string>
+			<key>suburb</key>
+			<string>Quinns Rocks</string>
+			<key>postcode</key>
+			<string>6030</string>
+		</dict>
+	</array>
+	<key>H</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Harry Riseborough Oval</string>
+			<key>address</key>
+			<string>Hartung St</string>
+			<key>suburb</key>
+			<string>Mundaring</string>
+			<key>postcode</key>
+			<string>6073</string>
+			<key>latitude</key>
+			<string>-32.14900</string>
+			<key>longitude</key>
+			<string>115.93295</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hartfield Park</string>
+			<key>address</key>
+			<string>Hale Road</string>
+			<key>suburb</key>
+			<string>Forrestfield</string>
+			<key>postcode</key>
+			<string>6058</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Herb Graham Recreation Centre</string>
+			<key>address</key>
+			<string>Chesterfield Road</string>
+			<key>suburb</key>
+			<string>Mirrabooka</string>
+			<key>postcode</key>
+			<string>6061</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hilton Reserve</string>
+			<key>address</key>
+			<string>Walton Way</string>
+			<key>suburb</key>
+			<string>Beaconsfield</string>
+			<key>postcode</key>
+			<string>6162</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hossack Reserve</string>
+			<key>address</key>
+			<string>Hossack Ave</string>
+			<key>suburb</key>
+			<string>Parkwood</string>
+			<key>postcode</key>
+			<string>6147</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Houghton Park</string>
+			<key>address</key>
+			<string>Joondalup Dr</string>
+			<key>suburb</key>
+			<string>Carramar</string>
+			<key>postcode</key>
+			<string>6031</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hudson Park</string>
+			<key>address</key>
+			<string>Arnos Way</string>
+			<key>suburb</key>
+			<string>Girrawheen</string>
+			<key>postcode</key>
+			<string>6064</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hyundai Stadium</string>
+			<key>address</key>
+			<string>Mahogany Drive</string>
+			<key>suburb</key>
+			<string>Halls Head</string>
+			<key>postcode</key>
+			<string>6210</string>
+			<key>latitude</key>
+			<string>-32.552077</string>
+			<key>longitude</key>
+			<string>115.697343</string>
+		</dict>
+	</array>
+	<key>I</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Iluka Sports Complex</string>
+			<key>address</key>
+			<string>Miami Beach Promenade</string>
+			<key>suburb</key>
+			<string>Iluka</string>
+			<key>postcode</key>
+			<string>6028</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>INTIGA Stadium</string>
+			<key>address</key>
+			<string>Hamer Parade</string>
+			<key>suburb</key>
+			<string>Inglewood</string>
+			<key>postcode</key>
+			<string>6932</string>
+			<key>latitude</key>
+			<string>-31.916291</string>
+			<key>longitude</key>
+			<string>115.879422</string>
+		</dict>
+	</array>
+	<key>J</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>John Connell Reserve</string>
+			<key>address</key>
+			<string>Dimond Court</string>
+			<key>suburb</key>
+			<string>Leeming</string>
+			<key>postcode</key>
+			<string>6149</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jubilee Reserve</string>
+			<key>address</key>
+			<string>Northmoor Road</string>
+			<key>suburb</key>
+			<string>Eden Hill</string>
+			<key>postcode</key>
+			<string>6054</string>
+		</dict>
+	</array>
+	<key>K</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Kelly Park</string>
+			<key>address</key>
+			<string>Kelly Park</string>
+			<key>suburb</key>
+			<string>Medina</string>
+			<key>postcode</key>
+			<string>6167</string>
+			<key>latitude</key>
+			<string>-32.232043</string>
+			<key>longitude</key>
+			<string>115.79504</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kingfisher Park</string>
+			<key>address</key>
+			<string>Illawarra Cres South</string>
+			<key>suburb</key>
+			<string>Ballajura</string>
+			<key>postcode</key>
+			<string>6066</string>
+		</dict>
+	</array>
+	<key>L</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Len Packham Reserve</string>
+			<key>address</key>
+			<string>Cordelia Ave </string>
+			<key>suburb</key>
+			<string>Coolbellup</string>
+			<key>postcode</key>
+			<string>6163</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Len Shearer Reserve</string>
+			<key>address</key>
+			<string>Marcus Avenue</string>
+			<key>suburb</key>
+			<string>Booragoon</string>
+			<key>postcode</key>
+			<string>6154</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lucius Park</string>
+			<key>address</key>
+			<string>Azelia Road</string>
+			<key>suburb</key>
+			<string>Spearwood</string>
+			<key>postcode</key>
+			<string>6163</string>
+		</dict>
+	</array>
+	<key>M</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Maccabean Memorial Oval</string>
+			<key>address</key>
+			<string>Woodrow Avenue</string>
+			<key>suburb</key>
+			<string>Yokine</string>
+			<key>postcode</key>
+			<string>6060</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Macedonia Park</string>
+			<key>address</key>
+			<string>Albert St</string>
+			<key>suburb</key>
+			<string>Balcatta</string>
+			<key>postcode</key>
+			<string>6021</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MacNaughton Park</string>
+			<key>address</key>
+			<string>MacNaughton Crescent</string>
+			<key>suburb</key>
+			<string>Kinross</string>
+			<key>postcode</key>
+			<string>6028</string>
+			<key>latitude</key>
+			<string>-31.71624</string>
+			<key>longitude</key>
+			<string>115.740967</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maida Vale Reserve</string>
+			<key>address</key>
+			<string>Acacia Road</string>
+			<key>suburb</key>
+			<string>Maida Vale</string>
+			<key>postcode</key>
+			<string>6057</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maniana Park</string>
+			<key>address</key>
+			<string>Gibbs St</string>
+			<key>suburb</key>
+			<string>Queens Park</string>
+			<key>postcode</key>
+			<string>6107</string>
+			<key>latitude</key>
+			<string>-32.00322</string>
+			<key>longitude</key>
+			<string>115.95650</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Marri Park</string>
+			<key>address</key>
+			<string>Marri Road</string>
+			<key>suburb</key>
+			<string>Duncraig</string>
+			<key>postcode</key>
+			<string>6023</string>
+			<key>latitude</key>
+			<string>-31.828092</string>
+			<key>longitude</key>
+			<string>115.769806</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mills Park</string>
+			<key>address</key>
+			<string>Bickley Rd</string>
+			<key>suburb</key>
+			<string>Beckenham</string>
+			<key>postcode</key>
+			<string>6107</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Miles Park</string>
+			<key>address</key>
+			<string>Lowes Street</string>
+			<key>suburb</key>
+			<string>Cloverdale</string>
+			<key>postcode</key>
+			<string>6105</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Morgan Park</string>
+			<key>address</key>
+			<string>Ironcap Place</string>
+			<key>suburb</key>
+			<string>Armadale</string>
+			<key>postcode</key>
+			<string>6112</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Morley Senior High School</string>
+			<key>address</key>
+			<string>Bramwell Rd</string>
+			<key>suburb</key>
+			<string>Noranda</string>
+			<key>postcode</key>
+			<string>6062</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Morrison Oval</string>
+			<key>address</key>
+			<string>Hale Road</string>
+			<key>suburb</key>
+			<string>Forrestfield</string>
+			<key>postcode</key>
+			<string>6058</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mount Claremont Oval</string>
+			<key>address</key>
+			<string>Montgomery Ave</string>
+			<key>suburb</key>
+			<string>Mount Claremont</string>
+			<key>postcode</key>
+			<string>6010</string>
+		</dict>
+	</array>
+	<key>N</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Nash Field</string>
+			<key>address</key>
+			<string>Solomon St</string>
+			<key>suburb</key>
+			<string>Mosman Park</string>
+			<key>postcode</key>
+			<string>6012</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>New Chile Social Club (Wilson Park)</string>
+			<key>address</key>
+			<string>Kent St</string>
+			<key>suburb</key>
+			<string>Wilson</string>
+			<key>postcode</key>
+			<string>6107</string>
+			<key>latitude</key>
+			<string>-32.01945</string>
+			<key>longitude</key>
+			<string>115.92259</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nikola Tesla Reserve</string>
+			<key>address</key>
+			<string>Kenwick Road</string>
+			<key>suburb</key>
+			<string>Maddington</string>
+			<key>postcode</key>
+			<string>6109</string>
+			<key>latitude</key>
+			<string>-32.03078</string>
+			<key>longitude</key>
+			<string>115.99709</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Noranda Sporting Complex</string>
+			<key>address</key>
+			<string>McGilvray Avenue</string>
+			<key>suburb</key>
+			<string>Noranda</string>
+			<key>postcode</key>
+			<string>6062</string>
+		</dict>
+	</array>
+	<key>P</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Parnham Reserve</string>
+			<key>address</key>
+			<string>Oats Street</string>
+			<key>suburb</key>
+			<string>Carlisle</string>
+			<key>postcode</key>
+			<string>6101</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Payne Park</string>
+			<key>address</key>
+			<string>Herbert Rd</string>
+			<key>suburb</key>
+			<string>Bunbury</string>
+			<key>postcode</key>
+			<string>6230</string>
+			<key>latitude</key>
+			<string>-33.33149</string>
+			<key>longitude</key>
+			<string>115.65013</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Percy Doyle Reserve</string>
+			<key>address</key>
+			<string>Ron Chamberlain Drive</string>
+			<key>suburb</key>
+			<string>Duncraig</string>
+			<key>postcode</key>
+			<string>6023</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Peter Moyes Anglican School</string>
+			<key>address</key>
+			<string>Salerno Drive</string>
+			<key>suburb</key>
+			<string>Quinns Rocks</string>
+			<key>postcode</key>
+			<string>6030</string>
+			<key>latitude</key>
+			<string>-31.674556</string>
+			<key>longitude</key>
+			<string>115.707278</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Princess Road Reserve</string>
+			<key>address</key>
+			<string>Princess Road</string>
+			<key>suburb</key>
+			<string>Balga</string>
+			<key>postcode</key>
+			<string>6061</string>
+			<key>latitude</key>
+			<string>-31.852627</string>
+			<key>longitude</key>
+			<string>115.837612</string>
+		</dict>
+	</array>
+	<key>R</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Raphael Park</string>
+			<key>address</key>
+			<string>Geddes Street</string>
+			<key>suburb</key>
+			<string>Victoria Park</string>
+			<key>postcode</key>
+			<string>6100</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Reader Reserve</string>
+			<key>address</key>
+			<string>Hector Street East</string>
+			<key>suburb</key>
+			<string>Yokine</string>
+			<key>postcode</key>
+			<string>6060</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rickman Delawney Reserve</string>
+			<key>address</key>
+			<string>Vasto Place</string>
+			<key>suburb</key>
+			<string>Balcatta</string>
+			<key>postcode</key>
+			<string>6021</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rosalie Park</string>
+			<key>address</key>
+			<string>Onslow Road</string>
+			<key>suburb</key>
+			<string>Shenton Park</string>
+			<key>postcode</key>
+			<string>6008</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rosher Park</string>
+			<key>address</key>
+			<string>Rosher Road</string>
+			<key>suburb</key>
+			<string>Lockridge</string>
+			<key>postcode</key>
+			<string>6054</string>
+		</dict>
+	</array>
+	<key>S</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Salvatore Sciuto Pavillion</string>
+			<key>address</key>
+			<string>Eighth St</string>
+			<key>suburb</key>
+			<string>Wonthella</string>
+			<key>postcode</key>
+			<string>6530</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Shelvock Reserve</string>
+			<key>address</key>
+			<string>Shelvock Cresent</string>
+			<key>suburb</key>
+			<string>Koondoola</string>
+			<key>postcode</key>
+			<string>6064</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Shoalwater Oval</string>
+			<key>address</key>
+			<string>Fourth Ave</string>
+			<key>suburb</key>
+			<string>Shoalwater </string>
+			<key>postcode</key>
+			<string>6169</string>
+			<key>latitude</key>
+			<string>-32.290235</string>
+			<key>longitude</key>
+			<string>115.708287</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Soccerdrome</string>
+			<key>address</key>
+			<string>Parade road </string>
+			<key>suburb</key>
+			<string>Bunbury</string>
+			<key>postcode</key>
+			<string>6230</string>
+			<key>latitude</key>
+			<string>-33.367468</string>
+			<key>longitude</key>
+			<string>115.637035</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>South Coogee Reserve</string>
+			<key>address</key>
+			<string>Russell Road</string>
+			<key>suburb</key>
+			<string>Munster</string>
+			<key>postcode</key>
+			<string>6166</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>South Oval</string>
+			<key>address</key>
+			<string>Curtin University</string>
+			<key>suburb</key>
+			<string>Bentley</string>
+			<key>postcode</key>
+			<string>6102</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Spanish Club of Western Australia</string>
+			<key>address</key>
+			<string>Baker Rd</string>
+			<key>suburb</key>
+			<string>Northlake</string>
+			<key>postcode</key>
+			<string>6163</string>
+			<key>latitude</key>
+			<string>32.080487</string>
+			<key>longitude</key>
+			<string>115.840653</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>St Andrews Park</string>
+			<key>address</key>
+			<string>Sunningdale Rd</string>
+			<key>suburb</key>
+			<string>Yanchep</string>
+			<key>postcode</key>
+			<string>6051</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sutherlands Park</string>
+			<key>address</key>
+			<string>Gay St</string>
+			<key>suburb</key>
+			<string>Huntingdale</string>
+			<key>postcode</key>
+			<string>6110</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Swan Italian Club</string>
+			<key>address</key>
+			<string>Francis St </string>
+			<key>suburb</key>
+			<string>Middle Swan</string>
+			<key>postcode</key>
+			<string>6056</string>
+		</dict>
+	</array>
+	<key>T</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Ted Cross Memorial Reserve</string>
+			<key>address</key>
+			<string>Wanneroo Rd</string>
+			<key>suburb</key>
+			<string>Westminster</string>
+			<key>postcode</key>
+			<string>6061</string>
+			<key>latitude</key>
+			<string>-31.866564</string>
+			<key>longitude</key>
+			<string>115.829540</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Thomas Kelly Oval</string>
+			<key>address</key>
+			<string>Rowson Place</string>
+			<key>suburb</key>
+			<string>Medina</string>
+			<key>postcode</key>
+			<string>6167</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Thomas Moore Park</string>
+			<key>address</key>
+			<string>Armstrong Rd</string>
+			<key>suburb</key>
+			<string>Wilson</string>
+			<key>postcode</key>
+			<string>6107</string>
+			<key>latitude</key>
+			<string>-32.013971</string>
+			<key>longitude</key>
+			<string>115.914946</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tranby Park</string>
+			<key>address</key>
+			<string>Tranby Drive</string>
+			<key>suburb</key>
+			<string>Baldivis</string>
+			<key>postcode</key>
+			<string>6171</string>
+			<key>latitude</key>
+			<string>-32.342907</string>
+			<key>longitude</key>
+			<string>115.799592</string>
+		</dict>
+	</array>
+	<key>W</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Walter Padbury Park</string>
+			<key>address</key>
+			<string>Cassidy Road</string>
+			<key>suburb</key>
+			<string>Thornlie</string>
+			<key>postcode</key>
+			<string>6108</string>
+			<key>latitude</key>
+			<string>-32.058282</string>
+			<key>longitude</key>
+			<string>115.955501</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wanneroo City Soccer Ground</string>
+			<key>address</key>
+			<string>Kingsway Sporting Complex</string>
+			<key>suburb</key>
+			<string>Kingsway</string>
+			<key>postcode</key>
+			<string>6065</string>
+			<key>latitude</key>
+			<string>-31.818064</string>
+			<key>longitude</key>
+			<string>115.829201</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Warrandyte Park</string>
+			<key>address</key>
+			<string>Warrandyte Drive</string>
+			<key>suburb</key>
+			<string>Craigie</string>
+			<key>postcode</key>
+			<string>6025</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Watson Reserve</string>
+			<key>address</key>
+			<string>Reserve Rd</string>
+			<key>suburb</key>
+			<string>Spearwood</string>
+			<key>postcode</key>
+			<string>6163</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wauhop Park</string>
+			<key>address</key>
+			<string>Wauhop Rd</string>
+			<key>suburb</key>
+			<string>East Fremantle</string>
+			<key>postcode</key>
+			<string>6158</string>
+			<key>latitude</key>
+			<string>-32.02862</string>
+			<key>longitude</key>
+			<string>115.76788</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Willetton Reserve</string>
+			<key>address</key>
+			<string>Apsley Rd</string>
+			<key>suburb</key>
+			<string>Willetton</string>
+			<key>postcode</key>
+			<string>6155</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Winthrop Park</string>
+			<key>address</key>
+			<string>Winthrop Drive</string>
+			<key>suburb</key>
+			<string>Winthrop</string>
+			<key>postcode</key>
+			<string>6150</string>
+			<key>latitude</key>
+			<string>-32.05108</string>
+			<key>longitude</key>
+			<string>115.826111</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Woodchester Reserve</string>
+			<key>address</key>
+			<string>Woodchester Rd</string>
+			<key>suburb</key>
+			<string>Nollamara</string>
+			<key>postcode</key>
+			<string>6061</string>
+			<key>latitude</key>
+			<string>-31.887178</string>
+			<key>longitude</key>
+			<string>115.844994</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Woodford Reserve</string>
+			<key>address</key>
+			<string>Woodford Road</string>
+			<key>suburb</key>
+			<string>Lynwood</string>
+			<key>postcode</key>
+			<string>6147</string>
+			<key>latitude</key>
+			<string>-32.04175</string>
+			<key>longitude</key>
+			<string>115.930781</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Woodville Reserve</string>
+			<key>address</key>
+			<string>Farmer Street</string>
+			<key>suburb</key>
+			<string>North Perth</string>
+			<key>postcode</key>
+			<string>6006</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wordsworth Reserve</string>
+			<key>address</key>
+			<string>Wordsworth Avenue</string>
+			<key>suburb</key>
+			<string>Inglewood</string>
+			<key>postcode</key>
+			<string>6052</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wotton Reserve</string>
+			<key>address</key>
+			<string>Embleton Ave</string>
+			<key>suburb</key>
+			<string>Embleton</string>
+			<key>postcode</key>
+			<string>6062</string>
+		</dict>
+	</array>
+	<key>Y</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Yuluma Park</string>
+			<key>address</key>
+			<string>Langley Crescent</string>
+			<key>suburb</key>
+			<string>Innaloo</string>
+			<key>postcode</key>
+			<string>6018</string>
+		</dict>
+	</array>
+</dict>
+</plist>
